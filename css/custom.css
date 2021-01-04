@@ -8,14 +8,14 @@
     src: url('../fonts/Geometos Rounded.woff') format('woff');
 }
 
-h-1 {
+hi {
     position: relative;
     font-family: Margarett;
     font-size: 13.0vw;
     color: rgb(255, 255, 255);
 }
 
-h-2 {
+hb {
     position: relative;
     font-family: Geometos;
     font-size: 3.0vw;
@@ -28,5 +28,14 @@ h-2 {
     left: 50%;
     width: 40%;
     transform: translate(-10%, -50%);
+    z-index: 3;
+}
+
+.coral-2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 60%;
+    transform: translate(-100%, -100%);
     z-index: 3;
 }
