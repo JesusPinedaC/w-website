@@ -50,23 +50,16 @@ n {
 }
 
 .content {
-    width: 100%;
+    width: 80%;
     border: 4px solid rgba(255, 0, 0, 0);
     padding: 15px;
     overflow: hidden;
 }
 
 .content img {
-    margin-right: 15px;
-    float: left;
+    transform: translate(80%, 0%);
 }
 
-.content f{
-    font-family: Geometos;
-    font-size: 3.0vw;
-    color: rgb(255, 255, 255);
-    transform: translate(-50%, -50%);
-}
 
 
 
