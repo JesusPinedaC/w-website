@@ -53,8 +53,9 @@ n {
     position: absolute;
     top: 50%;
     left: 50%;
-    width: 100%;
-    transform: translate(-10%, -50%);
+    width: 40%;
+    transform: translate(70%, -80%);
+
     z-index: 3;
 }
 
