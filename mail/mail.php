@@ -20,8 +20,8 @@ $sendingAccountUsername     = 'email@domain.com';
 $sendingAccountPassword     = 'p@55w0rd';
 
 // Recipient (To:) Details  - Change this to the email details of who will receive all the emails from the website.
-$recipientEmail             = 'email@yourdomain.com'; // REQUIRED value.
-$recipientName              = 'John Doe';             // REQUIRED value.
+$recipientEmail             = 'jesuspinedacastro@outlook.com'; // REQUIRED value.
+$recipientName              = 'Jesus Pineda';             // REQUIRED value.
 
 // Email details            - Change these to suit your website needs
 $emailSubject               = 'A message from Your Website'; // REQUIRED value. Subject of the email that the recipient will see
